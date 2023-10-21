@@ -1,0 +1,6 @@
+{
+    "wallets": ["Wallet1", "Wallet2", "Wallet3"],
+    "fromTokens": ["Token1", "Token2", "Token3"],
+    "toTokens": ["TokenA", "TokenB", "TokenC"],
+    "chains": ["Chain1", "Chain2", "Chain3"]
+}

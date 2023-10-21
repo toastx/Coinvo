@@ -1,0 +1,26 @@
+{
+    "USDT": {
+      "decimals": 12,
+      "contractAddress": "0x22bAA8b6cdd31a0C5D1035d6e72043f4Ce6aF054"
+    },
+    "ETH": {
+      "decimals": 18,
+      "contractAddress": "0x3C6Bb231079c1023544265f8F26505bc5955C3df"
+    },
+    "ROUTE": {
+      "decimals": 18,
+      "contractAddress": "0x908aC4f83A93f3B7145f24f906327018c9e54B3a"
+    },
+    "PEPE": {
+      "decimals": 12,
+      "contractAddress": "0xFee7De539Dd346189A33E954c8A140df95F94B89"
+    },
+    "PIKAMON": {
+      "decimals": 12,
+      "contractAddress": "0xa78044353cB8C675E905Ce7339769872Edd8E637"
+    },
+    "SHIBA INU": {
+      "decimals": 12,
+      "contractAddress": "0x418049cA499E9B5B983c9141c341E1aA489d6E4d"
+    }
+  }
